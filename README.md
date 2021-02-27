@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # URL preview app
 
 When the user selects a record in grid view, this app gets a preview URL from the record and shows
@@ -24,3 +25,6 @@ The code shows:
 ## See the app running
 
 ![App showing YouTube video when user selects record in grid view](media/block.gif)
+=======
+# fitbreak
+>>>>>>> 39ae8047f6c7f64e73f440b4c925ce413f41a651
